@@ -12,8 +12,8 @@ The latest stable version of the source code can be found in: [OptiJ source code
 ### Sample data
 5 individual lobes from adult murine lungs were extracted, dehydrated, stained, and cleared for OPT. Visualizations of the reconstructed data can be found in the following links. The open-source package FPBioimage (Fantham & Kaminski, Nature Photonics 2017) was used to render and share the reconstructed data. 
 
-1. Autofluorescent lobe:
-2. Right middle lobe
-3. Accessory lobe
-4. Left lobe
-5. Right upper lobe
+1. [Autofluorescent lobe](http://s3.amazonaws.com/fpbhost/lung-250/index.html)
+2. Right middle lobe: 
+3. Accessory lobe: 
+4. Left lobe: 
+5. Right upper lobe: 
