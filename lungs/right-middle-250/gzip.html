@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>right-middle-250 - FPBioimage Viewer</title>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+    <!-- EDIT THIS JAVASCRIPT! -->
+    <script type='text/javascript'>
+      fpb = {
+        pathToImages: "https://lag-opt.github.io/lungs/right-middle-250/", // This is the path relative to this webpage
+        uniqueName: "right-middle-250", // Give this image stack a unique name for bookmarking to work correctly
+        imagePrefix: "right-middle-250_z", // The prefix of the image stack file names
+        numberingFormat: "0000", // eg. "000" for 000, 001, 002, 003 etc.
+        fileType: "png", // png or jpg
+        atlasMode: "true", // True if providing pre-built texture atlases. Needs to be a string.
+        voxelSize: {x: 2.5879999999999996, y: 2.5949999999999998, z: 3.48}, // This just needs to be a ratio of x:y:z voxel size
+        numberOfImages: 250, // Number of images in the stack
+        sliceWidth: 250, sliceHeight: 200, // The width and height of the image slices (before padding)
+        imageAlpha: "false", // True for exports from Icy for nice alpha blending
+        opacity: 3.0, // Optional rendering parameter
+        intensity: 1.0, // Optional rendering parameter
+        threshold: 0.2, // Optional rendering parameter
+        projection: 2	// Volume renderer for RGBA (0 for max intensity, 1 for RGB)
+      }
+    </script>
+    <!-- END OF REQUIRED EDITS -->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+    <style>
+      html,body,h1,h2,h3,h4,h5 {font-family: "Roboto", sans-serif}
+      body {overflow: hidden;}     
+      * {margin: 0; padding:0;}
+      #fpbDiv {width:100%; height:100%; position: absolute;}
+      #fpbDiv canvas {width: 100%; height:100%;}
+    </style>
+  </head>
+  <body>
+
+    <script type="text/javascript" src="https://fpb.ceb.cam.ac.uk/4gzip/FPProgress.js"></script>
+
+    <!-- Put the WebGL Canvas in here-->
+    <div id="fpbDiv"></div>
+
+  </body>
+</html>

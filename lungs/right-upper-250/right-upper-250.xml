@@ -1,0 +1,19 @@
+<root>
+<name>Atlas Array</name>
+<meta>
+<positionX>0</positionX>
+<positionY>0</positionY>
+<positionZ>0</positionZ>
+<positionT>0</positionT>
+<pixelSizeX>1</pixelSizeX>
+<pixelSizeY>1</pixelSizeY>
+<pixelSizeZ>1</pixelSizeZ>
+<timeInterval>1</timeInterval>
+<channelName0>ch 0</channelName0>
+<channelName1>ch 1</channelName1>
+<channelName2>ch 2</channelName2>
+<channelName3>ch 3</channelName3>
+</meta>
+<rois/>
+<overlays/>
+</root>
