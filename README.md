@@ -8,6 +8,7 @@ To use the plugin, download the Opti_J.jar file and paste it into the plugins fo
 
 Documentation for OptiJ can be found in the following repository: [OptiJ documentation](https://github.com/Josephzammit90/ImageJ-Recon-Plugin-Java)
 
+<iframe src="https://drive.google.com/file/d/1kYcjZBFzgY4V9Z9pyCr0dAAIXDf_IyBi/preview" width="640" height="480"></iframe>
 
 The latest stable version of the source code (for further development or patches) can be found in: [OptiJ source code](https://github.com/Josephzammit90/2D_Reconstruction_patched)
 
