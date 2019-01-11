@@ -19,3 +19,13 @@ The latest stable version of the source code (for further development or patches
 3. [Accessory lobe](https://lag-opt.github.io/lungs/accesory-250/)
 4. [Left lobe](https://lag-opt.github.io/lungs/large-left-250/)
 5. [Right upper lobe](https://lag-opt.github.io/lungs/right-upper-250/)
+
+### Videos
+Videos from 3 lobes exploring the 3D morphology of the lung: 
+
+
+1. [Left lobe](https://youtu.be/BIICAE47ia0)
+
+2. [Medial lobe](https://youtu.be/rDL8ECd94Pc)
+
+3. [Accessory lobe](https://youtu.be/OLcNRcAR1dI)
