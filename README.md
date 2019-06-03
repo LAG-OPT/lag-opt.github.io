@@ -4,7 +4,7 @@
 
 This repository contains the most up-to-date version of OptiJ, an ImageJ plugin for denoising and reconstructing Optical Projection Tomography (OPT) data. Links to 3D visualizations of the data acquired using our open-source hardware and reconstructed using OptiJ can be found below. For any questions or comments, please contact Pedro Vallejo Ramirez, ppv23@cam.ac.uk.
 
-To use the plugin, download the Opti_J.jar file and paste it into the plugins folder of your current version of Fiji/ImageJ. Restart imageJ, and OptiJ is ready for use!
+To use the plugin, download the [Opti_J.jar](https://github.com/LAG-OPT/lag-opt.github.io/blob/master/Opti_J.jar) file and paste it into the plugins folder of your current version of Fiji/ImageJ. Restart imageJ, and OptiJ is ready for use!
 
 Documentation for OptiJ can be found in the following repository: [OptiJ documentation](https://github.com/Josephzammit90/ImageJ-Recon-Plugin-Java)
 
