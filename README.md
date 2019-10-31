@@ -6,9 +6,9 @@ This repository contains the most up-to-date version of OptiJ, an ImageJ plugin 
 
 To use the plugin, download the [Opti_J.jar](https://github.com/LAG-OPT/lag-opt.github.io/blob/master/Opti_J.jar) file and paste it into the plugins folder of your current version of Fiji/ImageJ. Restart imageJ, and OptiJ is ready for use!
 
-Documentation for OptiJ can be found in the following repository: [OptiJ documentation](https://github.com/Josephzammit90/ImageJ-Recon-Plugin-Java)
+Documentation for OptiJ can be found in the following repository: [OptiJ documentation](https://github.com/pedropabloVR/ImageJ-Recon-Plugin-Java)
 
-The latest stable version of the source code (for further development or patches) can be found in: [OptiJ source code](https://github.com/Josephzammit90/2D_Reconstruction_patched)
+The latest stable version of the source code (for further development or patches) can be found in: [OptiJ source code](https://github.com/pedropabloVR/2D_Reconstruction_patched)
 
 ### Sample data
 5 individual lobes from adult murine lungs were extracted, dehydrated, stained, and cleared for OPT. Visualizations of the reconstructed data can be found in the following links. The open-source package FPBioimage ([Fantham & Kaminski, Nature Photonics 2017](https://www.nature.com/articles/nphoton.2016.273)) was used to render and share the reconstructed data.
