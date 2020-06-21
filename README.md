@@ -10,7 +10,7 @@ Documentation for the OptiJ plugins can be found in the following repository: [O
 
 The latest stable version of the source code (for further development or patches) can be found in: [OptiJ source code](https://github.com/pedropabloVR/2D_Reconstruction_patched)
 
-Details on preparing samples for OPT imaging and characterisation of the hardware components can be found in this [auxiliary file](https://lag-opt.github.io/auxiliary_files/)
+Details on preparing samples for OPT imaging and characterisation of the hardware components can be found in this [auxiliary file.](https://lag-opt.github.io/auxiliary_files)
 
 ### Sample data
 5 individual lobes from adult murine lungs were extracted, dehydrated, stained, and cleared for OPT. Visualizations of the reconstructed data can be found in the following links. The open-source package FPBioimage ([Fantham & Kaminski, Nature Photonics 2017](https://www.nature.com/articles/nphoton.2016.273)) was used to render and share the reconstructed data.
